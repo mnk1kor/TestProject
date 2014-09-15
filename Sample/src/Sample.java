@@ -5,7 +5,8 @@ public class Sample {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-System.out.println("Tettete"); jgyg
+System.out.println("Tettete"); 
+System.out.println("123456"); 
 
 	}
 
